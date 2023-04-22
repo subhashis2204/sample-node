@@ -1,0 +1,22 @@
+{
+  "name": "sample-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhashis2204/sample-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhashis2204/sample-node/issues"
+  },
+  "homepage": "https://github.com/subhashis2204/sample-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
